@@ -1,0 +1,14 @@
+@reset-global pc;
+
+html, body {
+  height: 100%;
+  color: #bbb #000;
+  font-size: 12px;
+}
+
+pre {
+  font-family: "DejaVu Sans Mono", Menlo, "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+  -webkit-font-smoothing: antialiased;
+  transform: scale(.88);
+  transform-origin: 0 0;
+}
